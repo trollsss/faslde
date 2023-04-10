@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name" translatable="false">MyAplication</string>
+    <string name="my_ads" translatable="false">Мои обьявления</string>
+    <string name="cars_ads" translatable="false">Машины</string>
+    <string name="computer_ads" translatable="false">Компьютер</string>
+    <string name="smartphone_ads" translatable="false">Смартфоны</string>
+    <string name="dm_ads" translatable="false">Бытовая техника</string>
+    <string name="sign_up" translatable="false">Регистрация</string>
+    <string name="sign_in" translatable="false">Вход</string>
+    <string name="sign_out" translatable="false">Выход</string>
+    <string name="accaunt" translatable="false">Аккаунт</string>
+    <string name="sign_in_button" translatable="false">Войти</string>
+    <string name="sign_up_button" translatable="false">Зарегистрироватся</string>
+    <string name="sign_in_or_sign_up" translatable="false">Войдите или зарегестрируйтесь</string>
+    <string name="edit_ac_title" translatable="false">Название</string>
+    <string name="edit_ac_price" translatable="false">Цена</string>
+    <string name="edit_ac_discription" translatable="false">Описание</string>
+    <string name="edit_ac_phone" translatable="false">Телефон</string>
+    <string name="toggle_open" translatable="false">Открыть</string>
+    <string name="toggle_close" translatable="false">Закрыть</string>
+</resources>
